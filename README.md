@@ -1,2 +1,1 @@
-# udemy-react-sample-countup-app
-Created with CodeSandbox
+# I study React what is better?
